@@ -84,18 +84,18 @@ h5{
         font-size: 2rem;
     }
     .container{
-        width: 61vw;
+        width: 60vw;
         font-size: 2rem;
     }
     main{
         margin:15% 25%;
     }
 h5{
-    font-size: 0.5em;
-    margin-left: 4em;
+    font-size: 0.4em;
+    margin-left: 3em;
 }
 .reels{
-    font-size: 2em;
+    font-size: 1em;
    
 }
 }

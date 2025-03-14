@@ -67,7 +67,7 @@ h5{
         margin: 4rem 4rem;
     }
     h5{
-        margin-left: 38rem;
+        margin-left: 30rem;
     }
     .reels{
         font-size: 0.5em;
@@ -84,15 +84,15 @@ h5{
         font-size: 2rem;
     }
     .container{
-        width: 60vw;
+        width: 58vw;
         font-size: 2rem;
     }
     main{
-        margin:20% 25%;
+        margin:20% 30%;
     }
 h5{
-    font-size: 0.4em;
-    margin-left: 3em;
+    font-size: 0.2em;
+    margin-left: 2em;
 }
 .reels{
     font-size: 1em;
